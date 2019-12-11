@@ -4,7 +4,7 @@
 
       <div class="c-4 xs-text-left xs-p2 sm-border-right">
         <div class="item">
-          <nuxt-link class="sitename" to="/" exact>{{headerSiteName}}</nuxt-link>
+          <nuxt-link class="sitename" to="https://www.furemmedia.co.uk" exact>{{headerSiteName}}</nuxt-link>
         </div>
       </div>
 
