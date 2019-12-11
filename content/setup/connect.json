@@ -2,19 +2,15 @@
   "connectlinks": [
     {
       "name": "Twitter",
-      "url": "https://twitter.com/jasperketone"
+      "url": "https://twitter.com/furemmedia"
     },
     {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/jake-peterson-101/"
+      "name": "Instagram",
+      "url": "https://www.instagram.com/furemmedia"
     },
     {
-      "name": "Github",
-      "url": "https://github.com/jake-101"
-    },
-    {
-      "name": "Unsplash",
-      "url": "https://unsplash.com/@jake101"
+      "name": "Facebook",
+      "url": "https://facebook.com/furemmedia"
     }
   ]
 }
